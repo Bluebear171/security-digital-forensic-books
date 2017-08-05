@@ -1,0 +1,12 @@
+# Assembly Language:
+- Assembly Language for x86 Processors 6th Edition
+- Assembly Language for x86 Processors-Pearson 7th Edition by Kip R. Irvine (must read)
+- Assembly Language: Simple, Short, and Straightforward Way of Learning Assembly Programming
+- Assembly Language Step by Step programming with Linux(must read)
+- Intel 64 and IA-32 Architectures Software Developer's Manual
+- Introduction to 64 Bit Windows Assembly Language Programming: Fourth Edition Ray Seyfarth
+- Introduction to 64 Bit Assembly Programming for Linux and OS X: Third Edition - for Linux and OS X
+- Introduction to assembly language programming for pentium and risc processors
+- Modern X86 Assembly Language Programming
+- Professional AT & T Assembly Language
+- The Art of Assembly Language

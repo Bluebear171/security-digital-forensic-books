@@ -1,0 +1,22 @@
+# Cryptography
+- A Course in Number Theory and Cryptography (Graduate Texts in Mathematics)
+- An Introduction to Mathematical Cryptography (Undergraduate Texts in Mathematics)
+- An Introduction to Number Theory with Cryptography
+- Algorithmic Cryptanalysis (Chapman & Hall/CRC Cryptography and Network Security Series) 1st Edition
+- Applied Cryptanalysis - Breaking Ciphers in the Real World
+- Applied Cryptography: Protocols, Algorithms and Source Code in C
+- Beginning Cryptography With Java(must Read)
+- BigNum Math - Implementing Cryptographic Multiple Precision Arithmetic
+- Break the Code: Cryptography for Beginners
+- Codes - The Guide to Secrecy from Ancient to Modern Times
+- Cryptography and Network Security: Principles and Practice (6th Edition) by William Stallings
+- Cryptography Engineering: Design Principles and Practical Applications 1st Edition
+- Cryptography for Developers
+- Cryptography: Theory and Practice, Third Edition (Discrete Mathematics and Its Applications)
+- Cryptanalysis of Number Theoretic Ciphers (Computational Mathematics)
+- Implementing SSL / TLS Using Cryptography and PKI
+- Introduction to Modern Cryptography, Second Edition (Chapman & Hall/CRC Cryptography and Network Security Series)
+- Malicious Cryptography: Exposing Cryptovirology
+- Modern Cryptanalysis: Techniques for Advanced Code Breaking
+- Practical Cryptography
+- Secure Programming Cookbook for C and C++: Recipes for Cryptography, Authentication, Input Validation & More(Must Read)
