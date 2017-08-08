@@ -1,0 +1,24 @@
+# Forensic Investigation
+- Best Practice For Sizing Electronic Evidence
+- Computer Forensics and Cyber Crime  An Introduction, 3rd Edition by Marjie T. Britz
+- Computer Forensics with FTK by Fernando Carbone  
+- Digital Evidence and Computer Crime, Third Edition Forensic Science, Computers, and the Internet-Academic Press
+- Digital Forensics with the AccessData Forensic Toolkit (FTK)
+- Digital Imaging by Husrev
+- EC-Council-Investigating Data and Image [Computer forensic]
+- Electronic Crime Scene Investigation:A Guide for First Responders, Second Edition
+- File System Forensic Analysis[must read]
+- Forensic Examination of Windows Supported File System by Doug Elrick
+- Forensic Examination of Digital Evidence:A Guide for Law Enforcement
+- Forensic with open source tools
+- Guide to Computer Forensics and Investigations (with DVD) 5th Edition by Bill Nelson
+- Hacking Exposed Computer Forensic
+- Investigations Involving the Internet and Computer Networks
+- Memory Dump Analysis Anthology volume 2
+- Microsoft Portable Executable and Common Object File Format Specification
+- Operating System Forensic by Messier
+- Official (ISC)2® Guide to the CCFP CBK-Auerbach Publications,CRC Press
+- Predicting Malicious Behavior:tools and techniques
+- The official CHFI study guide
+- Understand Forensic Digital Imaging
+- 數據恢復技術深度揭秘

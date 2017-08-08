@@ -1,4 +1,4 @@
-# Assembly Language:
+# Assembly Language
 - Assembly Language for x86 Processors 6th Edition
 - Assembly Language for x86 Processors-Pearson 7th Edition by Kip R. Irvine (must read)
 - Assembly Language: Simple, Short, and Straightforward Way of Learning Assembly Programming
