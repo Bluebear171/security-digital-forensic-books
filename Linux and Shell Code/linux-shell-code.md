@@ -2,13 +2,17 @@
 - A practical Guide to Linux Command,Editor and Shell Scripting
 - CompTIA Linux+ Study Guide Exams (2013)
 - How Linux Works What Every Superuser Should Know
+- Linux All in one dummies
 - Linux Bible 2013
-- Linux Command line and shell scripting bible
+- Linux Command line and shell scripting bible 2015
+- Linux From Scracth
 - Linux Fundamental by Paul Cobbaut
 - Linux+ Guide to Linux Certification 3rd
 - Linux in a nutshell
 - Linux System Programming
 - Linux Kernal Development 3rd
+- Managing project with GNU make
+- The Linux Command Line
 - The Shellcoder's Handbook: Discovering and Exploiting Security Holes by Chris Anley
 - Understand The Linux Kernel
 - UNIX and Linux System Administration Handbook, 4th Edition
